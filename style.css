@@ -53,9 +53,26 @@ font-size: 15px;
     width: 200px;
     height: 50px;
   margin-top: 10px;
-  margin-left: 15px;
+  margin-left: 45px;
   color:blue;
 font-weight: 500px;
-font-size: 15px;
+font-size: 18px;
+cursor: pointer;
+}
+
+.div4 img{
+    width: 100%;
+    cursor: pointer;
+}
+.div4 button{
+    background-color: white; 
+    border: 1px solid blue;
+    width: 200px;
+    height: 50px;
+  margin-top: 10px;
+  margin-left: 45px;
+  color:blue;
+font-weight: 500px;
+font-size: 18px;
 cursor: pointer;
 }
