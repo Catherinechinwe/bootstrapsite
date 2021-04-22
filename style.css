@@ -76,3 +76,19 @@ font-weight: 500px;
 font-size: 18px;
 cursor: pointer;
 }
+.div5 img{
+    width: 100%;
+    cursor: pointer;
+}
+.div5 button{
+    background-color: white; 
+    border: 1px solid blue;
+    width: 200px;
+    height: 50px;
+  margin-top: 10px;
+  margin-left: 45px;
+  color:blue;
+font-weight: 500px;
+font-size: 18px;
+cursor: pointer;
+}
